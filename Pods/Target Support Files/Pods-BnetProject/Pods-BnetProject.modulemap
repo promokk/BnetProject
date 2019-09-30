@@ -1,0 +1,6 @@
+framework module Pods_BnetProject {
+  umbrella header "Pods-BnetProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
